@@ -43,7 +43,7 @@ export default function FoodApp() {
                     <div className="relative h-full aspect-[716/1408] -ml-4">
                         <Image
                             className="rotate-[5deg] shadow-xl"
-                            src="/phone-view_02.png "
+                            src="/phone_view_02.png"
                             alt="our-foods"
                             fill
                         />
